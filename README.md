@@ -3,7 +3,7 @@ Proyecto MEDISTOCK - API RESTful
 ## Descripción
 El objetivo de la API es centralizar y automatizar el flujo de información entre el inventario, los proveedores y los clientes. Funciona como el motor del sistema, permitiendo que la plataforma gestione pedidos y consulte existencias en tiempo real de forma eficiente y segura.
 
-Problemas que resuelve
+**Problemas que resuelve:**
 
 * **Desfase de stock:** Elimina errores de inventario, asegurando que solo se venda lo que realmente está disponible.
 * **Procesos manuales:** Automatiza la recepción y validación de órdenes, reduciendo los tiempos de espera y la carga administrativa.
