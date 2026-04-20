@@ -5,9 +5,9 @@ El objetivo de la API es centralizar y automatizar el flujo de información entr
 
 Problemas que resuelve
 
-Desfase de stock: Elimina errores de inventario, asegurando que solo se venda lo que realmente está disponible.
-Procesos manuales: Automatiza la recepción y validación de órdenes, reduciendo los tiempos de espera y la carga administrativa.
-Falta de visibilidad: Proporciona trazabilidad completa, permitiendo conocer el estado exacto de cada pedido desde que se solicita hasta que se entrega.
+* **Desfase de stock:** Elimina errores de inventario, asegurando que solo se venda lo que realmente está disponible.
+* **Procesos manuales:** Automatiza la recepción y validación de órdenes, reduciendo los tiempos de espera y la carga administrativa.
+* **Falta de visibilidad:** Proporciona trazabilidad completa, permitiendo conocer el estado exacto de cada pedido desde que se solicita hasta que se entrega.
 
 ## Stack Tecnológico
 * **Lenguaje:** (ej. Java 21)
