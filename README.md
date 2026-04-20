@@ -1,7 +1,12 @@
 Proyecto MEDISTOCK - API RESTful
 
 ## Descripción
-Es un puente digital que conecta el inventario de MEDISTOCK directamente con los sistemas de las clínicas (B2B), permitiendo el intercambio de datos sin intervención humana.
+El objetivo de la API es centralizar y automatizar el flujo de información entre el inventario, los proveedores y los clientes. Funciona como el motor del sistema, permitiendo que la plataforma gestione pedidos y consulte existencias en tiempo real de forma eficiente y segura.
+
+#Problemas que resuelve
+Desfase de stock: Elimina errores de inventario, asegurando que solo se venda lo que realmente está disponible.
+Procesos manuales: Automatiza la recepción y validación de órdenes, reduciendo los tiempos de espera y la carga administrativa.
+Falta de visibilidad: Proporciona trazabilidad completa, permitiendo conocer el estado exacto de cada pedido desde que se solicita hasta que se entrega.
 
 ## Stack Tecnológico
 * **Lenguaje:** (ej. Java 21)
