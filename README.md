@@ -10,10 +10,10 @@ El objetivo de la API es centralizar y automatizar el flujo de información entr
 * **Falta de visibilidad:** Proporciona trazabilidad completa, permitiendo conocer el estado exacto de cada pedido desde que se solicita hasta que se entrega.
 
 ## Stack Tecnológico
-* **Lenguaje:** (ej. Java 21)
-* **Framework:** (ej. Spring Boot 3.x)
-* **Base de Datos:** (ej. MySQL / Oracle XE)
-* **Herramientas de Construcción:** (ej. Maven / Gradle)
+* **Lenguaje:** por definir
+* **Framework:** por definir
+* **Base de Datos:** PostgreSQL
+* **Herramientas de Construcción:** por definir
 
 ## Estructura de Carpetas
 Explique brevemente la organización de su código base:
@@ -29,7 +29,7 @@ Explique brevemente la organización de su código base:
 
 ## Documentación de Arquitectura (Modelo 4+1)
 Acceso a los diagramas de despliegue, comunicación y paquetes:
-* [Carpeta Compartida de Diagramas](INSERTE_LINK_AQUÍ)
+* [[Carpeta Compartida de Diagramas](https://drive.google.com/drive/folders/1F0yQQnj96hQQdklM_RN8WgjTxwys6xyc?usp=sharing)](
 
 ## Pruebas de API
 * **Postman:** Indique si existe un archivo JSON con la colección o un enlace público.
